@@ -1,5 +1,5 @@
 # CPSC335 Project 1
-This is the first project for CPSC 335 instructed by Bharti Moryani.
+This is the first project for CPSC 335, instructed by Bharti Moryani. This repository contains two algorithms that deal with the dark and light disk problem. The .pdf file included also provides the algorithms' pseudocode and mathematical analyses of the efficiency classes.
 ## Students: 
 Dylan Wong & Nicklaus Marietta
 
