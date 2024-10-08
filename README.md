@@ -1,4 +1,7 @@
-# CPSC335Proj1NMDW
+# CPSC335 Project 1
 This is the first project for CPSC 335 instructed by Bharti Moryani.
-# Students: 
+## Students: 
 Dylan Wong & Nicklaus Marietta
+
+## To Run the Program:
+1. 
