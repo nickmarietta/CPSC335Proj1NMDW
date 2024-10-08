@@ -16,7 +16,7 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/nickmarietta/CPSC335Proj1NMDW.git
 
 2. **Navigate to the project directory**
-    cd projectDestination
+    ```cd projectDestination
 
 3. **Run the main program**
-    python/python3 main.py
+    ```python/python3 main.py
