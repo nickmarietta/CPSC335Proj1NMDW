@@ -18,7 +18,6 @@ Make sure you have the following installed on your machine:
 2. **Navigate to the project directory**
     ```
     cd CPSC335Proj1NMDW
-
 3. **Run the main program**
     ```
     python/python3 main.py
