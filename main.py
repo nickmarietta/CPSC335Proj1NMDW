@@ -9,7 +9,6 @@ def main():
         result = leftToRight(n)
     else:
         result = lawnmower(n)
-
     print(result)
 
 if __name__ == "__main__":
